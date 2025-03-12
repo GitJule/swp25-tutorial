@@ -1,0 +1,14 @@
+# Target labels
+ datasource--in.fastq
+# Source files and their labels
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq-complete.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-build.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-configure.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-download.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-install.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-mkdir.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-patch.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-test.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-update.rule

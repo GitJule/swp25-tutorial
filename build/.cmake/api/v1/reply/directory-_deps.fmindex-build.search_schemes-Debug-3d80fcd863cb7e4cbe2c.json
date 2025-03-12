@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/fmindex-build/search_schemes",
+		"source" : "build/_deps/fmindex-src/src/search_schemes"
+	}
+}

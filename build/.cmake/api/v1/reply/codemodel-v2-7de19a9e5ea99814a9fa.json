@@ -1,0 +1,492 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						8,
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "_deps/use_ccache-build",
+					"jsonFile" : "directory-_deps.use_ccache-build-Debug-2cb2f405b218ed2de6a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "build/_deps/use_ccache-src/ccache"
+				},
+				{
+					"build" : "_deps/fmindex-build",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-_deps.fmindex-build-Debug-7e5d41411e35a3b3c832.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/fmindex-src"
+				},
+				{
+					"build" : "_deps/cpm.dependencies-build",
+					"jsonFile" : "directory-_deps.cpm.dependencies-build-Debug-a4b77b92922f7de58eb2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "build/_deps/cpm.dependencies-src"
+				},
+				{
+					"build" : "_deps/libsais-build",
+					"jsonFile" : "directory-_deps.libsais-build-Debug-e4c33271e51739ee0a20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "build/_deps/libsais-src",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "_deps/cereal-build",
+					"jsonFile" : "directory-_deps.cereal-build-Debug-658cddb9fd44c87f3aae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "build/_deps/cereal-src"
+				},
+				{
+					"build" : "_deps/fmindex-build/search_schemes",
+					"jsonFile" : "directory-_deps.fmindex-build.search_schemes-Debug-3d80fcd863cb7e4cbe2c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 4,
+					"source" : "build/_deps/fmindex-src/src/search_schemes"
+				},
+				{
+					"build" : "_deps/fmindex-build/fmindex-collection",
+					"jsonFile" : "directory-_deps.fmindex-build.fmindex-collection-Debug-079edfb666344937312b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "build/_deps/fmindex-src/src/fmindex-collection"
+				},
+				{
+					"build" : "_deps/hibf-build",
+					"childIndexes" : 
+					[
+						9
+					],
+					"jsonFile" : "directory-_deps.hibf-build-Debug-6e82d0eb6930a5f23dab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "build/_deps/hibf-src"
+				},
+				{
+					"build" : "_deps/hibf-build/src",
+					"jsonFile" : "directory-_deps.hibf-build.src-Debug-949436bda1def4e8f9d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 5,
+					"source" : "build/_deps/hibf-src/src",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "_deps/seqan3-build",
+					"jsonFile" : "directory-_deps.seqan3-build-Debug-8d741f9375463e68d220.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "build/_deps/seqan3-src"
+				},
+				{
+					"build" : "_deps/sharg-build",
+					"jsonFile" : "directory-_deps.sharg-build-Debug-fa6a553bc14a8e04a8f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "build/_deps/sharg-src"
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						14
+					],
+					"jsonFile" : "directory-test-Debug-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "_deps/gtest-build",
+					"childIndexes" : 
+					[
+						15
+					],
+					"jsonFile" : "directory-_deps.gtest-build-Debug-5f654ca69b31eaa0b0f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 8,
+					"source" : "build/_deps/gtest-src"
+				},
+				{
+					"build" : "_deps/gtest-build/googletest",
+					"jsonFile" : "directory-_deps.gtest-build.googletest-Debug-df9c80e280eaf7438ba3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 9,
+					"source" : "build/_deps/gtest-src/googletest",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						12,
+						13
+					],
+					"name" : "swp25-tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						12,
+						13
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						7
+					],
+					"name" : "fmindex-collection",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "libsais",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "cereal",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "search_schemes",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8,
+						9
+					],
+					"name" : "HIBF",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "seqan3",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "sharg",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						9
+					],
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "gtest",
+					"parentIndex" : 8,
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 13,
+					"id" : "api_fastq_coversion_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-api_fastq_coversion_test-Debug-afcee95159247fb861ca.json",
+					"name" : "api_fastq_coversion_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "api_print_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-api_print_test-Debug-cfc12ae311dbeacff47c.json",
+					"name" : "api_print_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "check::@36f028580bb02cc8272a",
+					"jsonFile" : "target-check-Debug-ff4116d3d8094d6ce88e.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "cli_fastq_coversion_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-cli_fastq_coversion_test-Debug-2c51d0c5ab4ac3c0452b.json",
+					"name" : "cli_fastq_coversion_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpm-update-package-lock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpm-update-package-lock-Debug-ad0fc1e7206d846ad9a9.json",
+					"name" : "cpm-update-package-lock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "datasource--downloaded.fasta::@36f028580bb02cc8272a",
+					"jsonFile" : "target-datasource--downloaded.fasta-Debug-72ce0750497062592728.json",
+					"name" : "datasource--downloaded.fasta",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "datasource--in.fastq::@36f028580bb02cc8272a",
+					"jsonFile" : "target-datasource--in.fastq-Debug-e569d13426c8a6cc394c.json",
+					"name" : "datasource--in.fastq",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "datasource--out.fasta::@36f028580bb02cc8272a",
+					"jsonFile" : "target-datasource--out.fasta-Debug-4ed9e2395316bbff8701.json",
+					"name" : "datasource--out.fasta",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "gtest::@11ce2936600882345026",
+					"jsonFile" : "target-gtest-Debug-aad978df84e5e6477ebb.json",
+					"name" : "gtest",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "gtest_main::@11ce2936600882345026",
+					"jsonFile" : "target-gtest_main-Debug-fc1ed14731c0684ac365.json",
+					"name" : "gtest_main",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "hibf::@77fef9da0b28ed0d618f",
+					"jsonFile" : "target-hibf-Debug-9e2af53c03d30bfa3e73.json",
+					"name" : "hibf",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libsais::@9117cbd37b77eb59d153",
+					"jsonFile" : "target-libsais-Debug-f1b30e8e07a534aae8b7.json",
+					"name" : "libsais",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "swp25-tutorial::@145eef247bfb46b6828c",
+					"jsonFile" : "target-swp25-tutorial-Debug-a2f656bcda28c64b264f.json",
+					"name" : "swp25-tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "swp25-tutorial_lib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-swp25-tutorial_lib-Debug-ff28a7912b5fd6b47e02.json",
+					"name" : "swp25-tutorial_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/julia/Tutorial/build/swp25-tutorial/build",
+		"source" : "/home/julia/Tutorial/build/swp25-tutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

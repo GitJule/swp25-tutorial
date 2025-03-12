@@ -1,0 +1,3 @@
+/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/fmindex-populate.dir
+/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/edit_cache.dir
+/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/rebuild_cache.dir

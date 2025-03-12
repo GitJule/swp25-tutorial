@@ -1,0 +1,14 @@
+# Target labels
+ datasource--out.fasta
+# Source files and their labels
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta-complete.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-build.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-configure.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-download.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-install.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-mkdir.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-patch.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-test.rule
+/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-update.rule

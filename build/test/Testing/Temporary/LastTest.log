@@ -1,0 +1,69 @@
+Start testing: Mar 12 11:44 CET
+----------------------------------------------------------
+1/2 Testing: api_fastq_coversion_test
+1/2 Test: api_fastq_coversion_test
+Command: "/home/julia/Tutorial/build/swp25-tutorial/build/api_fastq_coversion_test"
+Directory: /home/julia/Tutorial/build/swp25-tutorial/build/test
+"api_fastq_coversion_test" start time: Mar 12 11:44 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from fastq_to_fasta
+[ RUN      ] fastq_to_fasta.out_empty
+[       OK ] fastq_to_fasta.out_empty (6 ms)
+[ RUN      ] fastq_to_fasta.out_not_empty
+[       OK ] fastq_to_fasta.out_not_empty (8 ms)
+[----------] 2 tests from fastq_to_fasta (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (15 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"api_fastq_coversion_test" end time: Mar 12 11:44 CET
+"api_fastq_coversion_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: cli_fastq_coversion_test
+2/2 Test: cli_fastq_coversion_test
+Command: "/home/julia/Tutorial/build/swp25-tutorial/build/cli_fastq_coversion_test"
+Directory: /home/julia/Tutorial/build/swp25-tutorial/build/test
+"cli_fastq_coversion_test" start time: Mar 12 11:44 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc
+[==========] Running 7 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 7 tests from fastq_to_fasta
+[ RUN      ] fastq_to_fasta.no_options
+[       OK ] fastq_to_fasta.no_options (12 ms)
+[ RUN      ] fastq_to_fasta.fail_no_argument
+[       OK ] fastq_to_fasta.fail_no_argument (6 ms)
+[ RUN      ] fastq_to_fasta.with_argument
+[       OK ] fastq_to_fasta.with_argument (9 ms)
+[ RUN      ] fastq_to_fasta.with_argument_verbose
+[       OK ] fastq_to_fasta.with_argument_verbose (7 ms)
+[ RUN      ] fastq_to_fasta.with_out_file
+[       OK ] fastq_to_fasta.with_out_file (29 ms)
+[ RUN      ] fastq_to_fasta.missing_path
+[       OK ] fastq_to_fasta.missing_path (6 ms)
+[ RUN      ] fastq_to_fasta.invalid_path
+[       OK ] fastq_to_fasta.invalid_path (8 ms)
+[----------] 7 tests from fastq_to_fasta (80 ms total)
+
+[----------] Global test environment tear-down
+[==========] 7 tests from 1 test suite ran. (80 ms total)
+[  PASSED  ] 7 tests.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"cli_fastq_coversion_test" end time: Mar 12 11:44 CET
+"cli_fastq_coversion_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 12 11:44 CET

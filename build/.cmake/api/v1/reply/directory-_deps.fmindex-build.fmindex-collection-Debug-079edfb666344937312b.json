@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/fmindex-build/fmindex-collection",
+		"source" : "build/_deps/fmindex-src/src/fmindex-collection"
+	}
+}

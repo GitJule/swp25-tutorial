@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--in.fastq-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-test.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--in.fastq-stamp/datasource--in.fastq-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datasource--in.fastq"
+		],
+		"name" : "datasource--in.fastq"
+	}
+}

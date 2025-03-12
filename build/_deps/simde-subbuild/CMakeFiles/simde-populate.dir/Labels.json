@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"simde-populate"
+		],
+		"name" : "simde-populate"
+	}
+}
