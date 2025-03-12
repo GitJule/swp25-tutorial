@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/CMakeFiles/datasource--out.fasta-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-test.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--out.fasta-stamp/datasource--out.fasta-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datasource--out.fasta"
+		],
+		"name" : "datasource--out.fasta"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/fmindex-populate"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/fmindex-populate.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/CMakeFiles/fmindex-populate-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-test.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-subbuild/fmindex-populate-prefix/src/fmindex-populate-stamp/fmindex-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fmindex-populate"
+		],
+		"name" : "fmindex-populate"
+	}
+}

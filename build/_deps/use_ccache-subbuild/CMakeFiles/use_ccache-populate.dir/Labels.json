@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/CMakeFiles/use_ccache-populate"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/CMakeFiles/use_ccache-populate.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/CMakeFiles/use_ccache-populate-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-test.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/use_ccache-subbuild/use_ccache-populate-prefix/src/use_ccache-populate-stamp/use_ccache-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"use_ccache-populate"
+		],
+		"name" : "use_ccache-populate"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate-complete.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-build.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-configure.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-download.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-install.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-patch.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-test.rule"
+		},
+		{
+			"file" : "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hibf-populate"
+		],
+		"name" : "hibf-populate"
+	}
+}

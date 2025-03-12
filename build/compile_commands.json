@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/usr/bin/gcc -DLIBSAIS_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -g -flto=auto -fno-fat-lto-objects -fopenmp -std=c99 -o CMakeFiles/libsais.dir/src/libsais.c.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais.c",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais.c"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/usr/bin/gcc -DLIBSAIS_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -g -flto=auto -fno-fat-lto-objects -fopenmp -std=c99 -o CMakeFiles/libsais.dir/src/libsais16.c.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais16.c",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais16.c"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/usr/bin/gcc -DLIBSAIS_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -g -flto=auto -fno-fat-lto-objects -fopenmp -std=c99 -o CMakeFiles/libsais.dir/src/libsais16x64.c.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais16x64.c",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais16x64.c"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/usr/bin/gcc -DLIBSAIS_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -g -flto=auto -fno-fat-lto-objects -fopenmp -std=c99 -o CMakeFiles/libsais.dir/src/libsais64.c.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais64.c",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/src/libsais64.c"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/hierarchical_interleaved_bloom_filter.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/hierarchical_interleaved_bloom_filter.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/hierarchical_interleaved_bloom_filter.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/interleaved_bloom_filter.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/interleaved_bloom_filter.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/interleaved_bloom_filter.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/config.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/config.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/config.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/simple_binning.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/simple_binning.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/simple_binning.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/layout.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/layout.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/layout.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/compute_fpr_correction.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_fpr_correction.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_fpr_correction.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/compute_layout.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_layout.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_layout.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/compute_relaxed_fpr_correction.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_relaxed_fpr_correction.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_relaxed_fpr_correction.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/data_store.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/data_store.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/data_store.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/sketch/compute_sketches.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/compute_sketches.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/compute_sketches.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/graph.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/graph.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/graph.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/layout/hierarchical_binning.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/hierarchical_binning.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/layout/hierarchical_binning.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/misc/print.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/misc/print.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/misc/print.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/sketch/toolbox.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/toolbox.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/toolbox.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/sketch/hyperloglog.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/hyperloglog.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/hyperloglog.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/sketch/minhashes.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/minhashes.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/sketch/minhashes.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/build/insert_into_ibf.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/insert_into_ibf.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/insert_into_ibf.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/build/compute_kmers.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/compute_kmers.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/compute_kmers.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -g -flto=auto -fno-fat-lto-objects -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/hibf.dir/build/construct_ibf.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/construct_ibf.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/src/build/construct_ibf.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DLIBSAIS_OPENMP -DSEQAN3_HAS_BZIP2=0 -DSEQAN3_HAS_ZLIB=0 -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/seqan3-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/sharg-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -flto=auto -fno-fat-lto-objects -pedantic -Wall -Wextra -Wno-interference-size -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/swp25-tutorial_lib.dir/fastq_conversion.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/src/fastq_conversion.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/src/fastq_conversion.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/src",
+  "command": "/usr/bin/g++ -DHIBF_UNINITIALISED_RESIZE -DLIBSAIS_OPENMP -DSEQAN3_HAS_BZIP2=0 -DSEQAN3_HAS_ZLIB=0 -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/seqan3-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/sharg-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -flto=auto -fno-fat-lto-objects -pedantic -Wall -Wextra -Wno-interference-size -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/swp25-tutorial.dir/main.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/src/main.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/src/main.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/test",
+  "command": "/usr/bin/g++ -DBINDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/\\\" -DDATADIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DLIBSAIS_OPENMP -DOUTPUTDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/output/\\\" -DSEQAN3_HAS_BZIP2=0 -DSEQAN3_HAS_ZLIB=0 -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/seqan3-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/sharg-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -flto=auto -fno-fat-lto-objects -pedantic -Wall -Wextra -Wno-interference-size -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/api_fastq_coversion_test.dir/api_fastq_coversion_test.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/test/api_fastq_coversion_test.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/test/api_fastq_coversion_test.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/test",
+  "command": "/usr/bin/g++ -DBINDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/\\\" -DDATADIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DLIBSAIS_OPENMP -DOUTPUTDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/output/\\\" -DSEQAN3_HAS_BZIP2=0 -DSEQAN3_HAS_ZLIB=0 -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/seqan3-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/sharg-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -flto=auto -fno-fat-lto-objects -pedantic -Wall -Wextra -Wno-interference-size -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/cli_fastq_coversion_test.dir/cli_fastq_coversion_test.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/test/cli_fastq_coversion_test.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/test/cli_fastq_coversion_test.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/test",
+  "command": "/usr/bin/g++ -DBINDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/\\\" -DDATADIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DLIBSAIS_OPENMP -DOUTPUTDIR=\\\"/home/julia/Tutorial/build/swp25-tutorial/build/test/output/\\\" -DSEQAN3_HAS_BZIP2=0 -DSEQAN3_HAS_ZLIB=0 -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/home/julia/Tutorial/build/swp25-tutorial/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/seqan3-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/cereal-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/sharg-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/hibf-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/simde-src -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/libsais-src/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -flto=auto -fno-fat-lto-objects -pedantic -Wall -Wextra -Wno-interference-size -Wno-psabi -march=native -fopenmp -std=c++23 -o CMakeFiles/api_print_test.dir/api_print_test.cpp.o -c /home/julia/Tutorial/build/swp25-tutorial/test/api_print_test.cpp",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/test/api_print_test.cpp"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/include -I/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest -g -flto=auto -fno-fat-lto-objects -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++23 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest-all.cc",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest -g -flto=auto -fno-fat-lto-objects -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++23 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc",
+  "file": "/home/julia/Tutorial/build/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc"
+}
+]

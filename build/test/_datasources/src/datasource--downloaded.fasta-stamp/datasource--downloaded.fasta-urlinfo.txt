@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--downloaded.fasta-stamp/download-datasource--downloaded.fasta.cmake;COMMAND;/usr/bin/cmake;-P;/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--downloaded.fasta-stamp/verify-datasource--downloaded.fasta.cmake
+source_dir=/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src/datasource--downloaded.fasta
+work_dir=/home/julia/Tutorial/build/swp25-tutorial/build/test/_datasources/src
+url(s)=https://ftp.seqan.de/app-template/downloaded.fasta
+hash=SHA256=c3cb990ca1a25c7e31be3c6c2d009238d9ac9a44b2b7c143753c1e2881699077
+no_extract=TRUE
+

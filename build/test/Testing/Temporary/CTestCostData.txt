@@ -1,0 +1,3 @@
+api_fastq_coversion_test 2 0.0107708
+cli_fastq_coversion_test 2 0.0422835
+---

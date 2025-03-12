@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-12" cr ../../../lib/libgtest.a "CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+"/usr/bin/gcc-ranlib-12" ../../../lib/libgtest.a
